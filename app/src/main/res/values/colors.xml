@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#145374</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#145374</color>
+    <color name="colorAccent1">#a6f6f1</color>
+
+    <!--    Gradien-->
+    <color name="start">#145374</color>
+    <color name="end">#1a1a2e</color>
+
+    <!--    Dark-->
+    <color name="background">#121212</color>
+    <color name="see">#000000</color>
+</resources>
